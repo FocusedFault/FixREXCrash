@@ -1,6 +1,6 @@
-# NewMod
+# Fix REX Crash
 
-Template
+fixes REX's shift crashing the game after hitting vagrant orbs, sky meadow rocks, or pots
 
 ## Changelog
 
